@@ -1,0 +1,15 @@
+{
+    "server":{
+        "host":"localhost",
+        "port":"5006"
+    },
+    "token":{
+        "username":"123",
+        "password":"test",
+        "expiry_days":1,
+        "secret":"token-secret"
+    },
+    "mongodb":{
+        "connection_string":"mongodb://root:root@10.10.10.60:27017"
+    }
+}
